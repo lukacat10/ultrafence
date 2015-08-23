@@ -15,7 +15,7 @@
  */
 /*How to add kits?
  * 1.add them to enum;
- * 2.add to getISForKit() (TODO: make getISForKit() part of the enum itself! 
+ * 2.add to getISForKit() (TODO: make getISForKit() part of the enum itself!  Done! getISForKitV2()!
  * & fix all errors before doing so because than you know what needs to be updated! 
  * & update editKitSelectorInv());
  * 3.editKitSelectorInv() is capable of working with up to 18 kittypes and staying organized! change when more than 18!;
